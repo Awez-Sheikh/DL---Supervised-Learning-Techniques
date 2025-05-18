@@ -13,3 +13,4 @@ f. Performance is evaluated using metrics like accuracy, precision, recall, and 
 
 g. Requires a large, clean, and well-labeled dataset for accurate predictions.
 
+# 1. Prepared Titanic dataset using data preprocessing techniques. Handled missing values, encoded categorical features, removed duplicates, and cleaned data. Applied Decision Tree algorithm for training and prediction. Performed evaluation using model performance metrics to analyze survival outcomes. 
