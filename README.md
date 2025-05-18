@@ -14,3 +14,4 @@ f. Performance is evaluated using metrics like accuracy, precision, recall, and 
 g. Requires a large, clean, and well-labeled dataset for accurate predictions.
 
 # 1. Prepared Titanic dataset using data preprocessing techniques. Handled missing values, encoded categorical features, removed duplicates, and cleaned data. Applied Decision Tree algorithm for training and prediction. Performed evaluation using model performance metrics to analyze survival outcomes. 
+# 2. Predicting House Prices Using Linear Regression. Given a dataset containing various features of houses such as size, number of bedrooms, location, etc., the task is to develop a linear regression model to predict the price of a house based on these features.
