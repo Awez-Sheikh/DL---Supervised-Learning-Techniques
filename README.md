@@ -1,5 +1,5 @@
 # ML---Supervised-Learning-Techniques
-1.Supervised Learning is a machine learning technique where the model learns from labeled data.
+1. Supervised Learning is a machine learning technique where the model learns from labeled data.
 
 2. The dataset includes input features and corresponding target outputs.
 
