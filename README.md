@@ -7,7 +7,7 @@ c. The goal is to predict the output for new, unseen inputs.
 
 d. Common tasks: Classification (predict categories) and Regression (predict continuous values).
 
-e. Algorithms: Decision Tree, Logistic Regression, Linear Regression, SVM, KNN, etc.
+e. Algorithms: Decision Tree, Logistic Regression, Linear Regression, Naive Bayse Classifier, SVM, KNN, etc.
 
 f. Performance is evaluated using metrics like accuracy, precision, recall, and MSE.
 
